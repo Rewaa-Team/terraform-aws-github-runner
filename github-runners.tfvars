@@ -1,6 +1,6 @@
 aws_region = "us-east-1"
 
-prefix = "gh-ci"
+prefix = "gh-ci-2"
 
 create_service_linked_role_spot = true
 
